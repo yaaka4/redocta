@@ -1,4 +1,4 @@
-package abc88.b;
+package abc088.b;
 
 import java.util.Comparator;
 import java.util.Scanner;
